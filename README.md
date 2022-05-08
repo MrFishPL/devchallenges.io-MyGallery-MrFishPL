@@ -66,3 +66,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - Facebook: [Michał Karp](https://www.facebook.com/karpik.junior)
 - Github: [MrFishPL](https://github.com/MrFishPL)
 - Discord: MrFishPL#3965
+
